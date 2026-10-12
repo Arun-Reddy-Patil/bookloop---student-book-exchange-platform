@@ -1,0 +1,6 @@
+{
+  "name": "BookLoop — Student Book Exchange Platform",
+  "description": "Buy, sell, and exchange used academic textbooks with college peers easily and affordably.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
